@@ -1,8 +1,20 @@
-# Project Setup
-The app contains 3 views:
+# CASE 1
+Install, Penggunaan, dan File Jawaban
+- Cara install masuk ke cd case-1-react-typescript
+- yarn
+- yarn dev
+- fungsi berada pada file src/components/Soal/Soal1.tsx
+# CASE 2
+Install, Penggunaan, dan File Jawaban
+- Cara install masuk ke cd case-2-react-typescript
+- yarn
+- yarn dev
+- fungsi berada pada file src/components/soal/Soal2.tsx
+# CASE 3
+Install, Penggunaan, dan File Jawaban
+- Cara install masuk ke cd case-3-laravel
+- composer install
+- php artisan serve
+- file berada di resouces/view/welcome.blade.php
 
-- Home view - with description about the app and motivation quotes
-- Profile view - where the user can add their diary entries
-- Calendar view - where the user can set reminders
-
-**Techstack:** ReactJS, Auth0, TailwindCSS.
+**Techstack:** React-typescript, Laravel
