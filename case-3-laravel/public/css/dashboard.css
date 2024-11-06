@@ -1,0 +1,60 @@
+.bg-green-custom {
+    background-color: #50a934;
+    font-weight: bold;
+}
+.bg-green-custom-transparant {
+    background-color: rgba(79, 169, 52, 0.562);
+    font-weight: bold;
+    color: black;
+}
+
+.carousel .carousel-inner .carousel-item img{
+    height:25rem;
+}
+
+#about_us .carousel .carousel-inner .carousel-item img{
+    height:26rem;
+}
+
+.justify-text {    
+  text-align: justify;
+  text-justify: inter-word;
+  color: black;
+}
+
+.mt-custom {
+    margin-top: -0.8rem;
+}
+
+.white-text {
+    color: #ffffff;
+}
+
+#visi_misi .row .card {
+    border-radius: 1.25rem;
+}
+
+#visi_misi .row .card:hover {
+    transform:scale(1.2);
+}
+
+
+#legalitas .row .card {
+    border-radius: 1.25rem;
+}
+
+#legalitas .row .card:hover {
+    transform:scale(1.2);
+}
+#legalitas .carousel .carousel-inner .carousel-item img{
+    height:100%;
+    width: 100%;
+}
+
+footer .text-putih {
+    color: white;
+}
+
+footer .v-bottom {
+    vertical-align: bottom;
+}
